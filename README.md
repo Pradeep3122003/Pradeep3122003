@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://pradeeph.netlify.app/](https://pradeeph.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pradeeph.netlify.app/](https://pradeepkh.netlify.app/)
 
 - 💬 Ask me about **js, SQL, python**
 
