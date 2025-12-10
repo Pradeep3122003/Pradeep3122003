@@ -1,5 +1,5 @@
 <h1 align="center">✨ Pradeep Holagundi</h1>
-<p align="center">Curiosity-powered developer exploring code, security, and creative ideas.</p>
+<p align="center">“I decided to live my own life.” — Zoro</p>
 
 ---
 
@@ -35,15 +35,6 @@ Web security fundamentals · automation · reconnaissance techniques
 
 ---
 
-## 🎼 Interests
-
-- Clean UI design with soft gradients  
-- Automations that remove repetitive noise  
-- Crafting stories that mix science with imagination  
-- Learning systems by breaking and fixing them  
-- Building smoother ways to interact with tech
-
----
 
 ## 🌐 Connect
 
@@ -52,8 +43,3 @@ Web security fundamentals · automation · reconnaissance techniques
 
 ---
 
-## 🌤 Tiny Note
-
-I like leaving digital spaces a little brighter than I found them.
-
----
