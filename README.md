@@ -39,7 +39,7 @@ Web security fundamentals · automation · reconnaissance techniques
 ## 🌐 Connect
 
 **Email**: pradeepholagundi@gmail.com  
-**LinkedIn**: https://www.linkedin.com/in/pradeep-holagundi  
+**LinkedIn**: https://www.linkedin.com/in/pradeepholagundi  
 
 ---
 
