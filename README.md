@@ -1,75 +1,59 @@
-# 🌌 Pradeep Holagundi  
-### Cybersecurity Intern | Full-Stack Developer | Curious Engineer in the Making
-
-Hi, I’m **Pradeep**, a builder of full-stack systems, tiny automations, and security tools that poke at the edges of the web.  
-My work spirals around **Cybersecurity**, **MERN**, **Automation**, **OSINT**, **WSL/Kali**, and the occasional science story.
+<h1 align="center">✨ Pradeep Holagundi</h1>
+<p align="center">Curiosity-powered developer exploring code, security, and creative ideas.</p>
 
 ---
 
-## 🏆 Profile Highlights
+## 🌿 Essence
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Pradeep-env&theme=algolia&no-frame=true&no-bg=false&margin-w=10&column=7)
-
----
-
-## 💫 About Me
-
-- ⚡ Cybersecurity Intern experimenting with ZAP, Burp, sqlmap, Nmap, Recon-ng, and custom automation scripts  
-- 🍃 Full-stack developer who shipped **MERN apps**, a **React portfolio**, and more  
-- 🔍 Creator of OSINT tools, mobile-number analyzers, and recon utilities  
-- ✍️ Writes playful science stories like *My Proofless Theories*  
-- 🌱 Exploring startup ideas with friends  
-- 🚀 Always building something that didn’t exist yesterday
+I enjoy building things that feel thoughtful, fast, and quietly futuristic.  
+My work often drifts through full-stack development, digital exploration,  
+and tiny experiments that turn into unexpected tools.  
+When ideas get loud, I write them as stories.
 
 ---
 
-## 🔧 Tech Stack
+## 🧩 Tech Palette
 
-### Frontend
-React · JavaScript · HTML · CSS · Tailwind · Bootstrap
+**Languages & Frameworks**  
+JavaScript · React · Node.js · Express · MongoDB · Python · Flask
 
-### Backend & DevOps
-Node.js · Express · MongoDB · Python · Flask · Linux · Bash · Git · NGINX
+**Ecosystem Tools**  
+Git · Linux · WSL · Bash · Tailwind · Netlify · Render
 
-### Security Tools
-BurpSuite · OWASP ZAP · sqlmap · Nmap · Nikto · Subfinder · Amass · Recon-ng · Metasploit · Commix
-
----
-
-## 📈 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Pradeep-env&show_icons=true&theme=radical)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-env&layout=compact&theme=radical)
+**Security Interests**  
+Web security fundamentals · automation · reconnaissance techniques  
 
 ---
 
-## 🚀 Current Projects
+## 🌌 Stats & Trophies
 
-- 🔍 **OSINT Username Scanner** with automated platform checks  
-- 📱 **Indian Mobile Number Analyzer** with AI-powered insights  
-- 🛡️ **Full-Stack Auth System** using JWT and MongoDB  
-- 🎮 Solo-Leveling–style profile system with avatar evolution
+![trophy](https://github-profile-trophy.vercel.app/?username=Pradeep-env&theme=algolia&no-frame=true&margin-w=10)
 
----
+![stats](https://github-readme-stats.vercel.app/api?username=Pradeep-env&show_icons=true&theme=tokyonight&hide_border=true)
 
-## ✨ Exploring Next
-
-- Advanced, ethical **MITM techniques**  
-- Offline-ready **React Native** apps  
-- Modern UI/UX design with smooth gradients and soft-glow effects  
-- Open-source security utilities
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-env&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
+## 🎼 Interests
 
-- **Email:** pradeepholagundi@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pradeep-holagundi/
+- Clean UI design with soft gradients  
+- Automations that remove repetitive noise  
+- Crafting stories that mix science with imagination  
+- Learning systems by breaking and fixing them  
+- Building smoother ways to interact with tech
 
 ---
 
-## 🎇 A Little Spark
+## 🌐 Connect
 
-When not coding, I craft theories that politely challenge unquestioned physics.
+**Email**: pradeepholagundi@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/pradeep-holagundi  
+
+---
+
+## 🌤 Tiny Note
+
+I like leaving digital spaces a little brighter than I found them.
 
 ---
