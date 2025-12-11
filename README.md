@@ -27,7 +27,7 @@ Web security fundamentals · automation · reconnaissance techniques
 
 ## 🌌 Stats & Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pradeep-env&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=Pradeep-env&row=2&column=3
 
 ---
 
