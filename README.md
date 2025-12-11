@@ -25,12 +25,6 @@ Web security fundamentals · automation · reconnaissance techniques
 
 ---
 
-## 🌌 Stats & Trophies
-
-https://github-profile-trophy.vercel.app/?username=Pradeep-env&row=2&column=3
-
----
-
 
 ## 🌐 Connect
 
